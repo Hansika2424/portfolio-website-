@@ -16,7 +16,7 @@ export function Experience() {
           </div>
           <div className="exp-content">
             <ul className="exp-bullets">
-              <li>Developed <strong>10+ production-ready UI screens</strong> using Next.js and React.js, translating Figma designs into responsive components with <strong>95% pixel accuracy</strong>.</li>
+              <li>Developed <strong>10+ production-ready UI screens</strong> using Next.js and React.js, devloping and translating Figma designs into responsive components with <strong>95% pixel accuracy</strong>.</li>
               <li>Reduced data-fetching latency by <strong>30%</strong> and eliminated <strong>80% of CLS</strong> by integrating REST APIs with SWR for client-side caching.</li>
               <li>Created a reusable component library that cut average sprint delivery time by <strong>30%</strong> on subsequent releases.</li>
             </ul>

@@ -15,7 +15,7 @@ const SKILLS = [
   },
   {
     cat: 'Tools & Platforms',
-    tags: ['Git / GitHub', 'Postman', 'Upstash Redis', 'Firebase (GCP)', 'AWS', 'Gemini API'],
+    tags: ['Git / GitHub', 'Postman', 'Upstash Redis', 'Firebase (GCP)', 'AWS', 'Figma'],
   },
 ];
 
